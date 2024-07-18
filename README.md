@@ -59,27 +59,26 @@ Sekarang Anda siap untuk menggunakan Metabase Anda di port 3000, biasanya di htt
 
 ## Konfigurasi Metabase
 Buka browser dan ketik http://localhost:3000 kemudian enter. Akan muncul tampilan Metabase sebagai berikut.
+# 1. Klik Let's get started.
 ![Screenshot (413)](https://github.com/user-attachments/assets/079a9b3d-a720-4b2c-a743-5d7a64d231fd)
-Klik Let's get started.
 
+# 2. Pilih bahasa Inggris dan klik Next
 ![Screenshot (414)](https://github.com/user-attachments/assets/39ee9711-c52b-4383-9dfc-f15bb363d492)
-Pilih bahasa Inggris dan klik Next
 
+# 3. Isikan Nama, Email dan Password kemudian Klik Next
 ![Screenshot (415)](https://github.com/user-attachments/assets/d59ef678-988e-4182-97df-4c43602e36d0)
-Isikan Nama, Email dan Password kemudian Klik Next
 
+# 4. Biarkan default dan klik Next
 ![Screenshot (416)](https://github.com/user-attachments/assets/cf077ebf-d4cf-4e5f-ad65-96ba1077529e)
-Biarkan default dan klik Next
 
+# 5. Klik I'll add my data later
 ![Screenshot (417)](https://github.com/user-attachments/assets/34ec0706-2e90-4ee7-917d-960bc1b1c6a5)
-Klik I'll add my data later
 
+# 6. Klik Finish
 ![Screenshot (418)](https://github.com/user-attachments/assets/515cbe65-2069-4275-871b-f9b84a524d41)
-Klik Finish
 
+# 7. Klik Take me to Metabase
 ![Screenshot (419)](https://github.com/user-attachments/assets/7bb16f8c-de3c-4478-b121-96b0ca5f2cab)
-Klik Take me to Metabase
 
+# 8. Tampilan antar muka Metabase akan terbuka
 ![Screenshot (420)](https://github.com/user-attachments/assets/725747fa-9dca-41fa-b3ed-b17a8478ecb8)
-Tampilan antar muka Metabase akan terbuka
-

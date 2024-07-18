@@ -26,7 +26,7 @@ Buat direktori baru dan pindahkan file JAR Metabase ke dalamnya. Ini penting aga
 
 Ke direktori yang Anda buat di langkah sebelumnya:
 
-![Screenshot (420)](https://github.com/user-attachments/assets/2cc5bd5f-2985-42ad-9dcb-ae8dd6dead6d)
+![Screenshot (407)](https://github.com/user-attachments/assets/89474a21-4240-48c9-9205-8e4c9c9df738)
 Klik kanan dan klik Open in Terminal
 
 Jalankan file JAR Metabase dari terminal:
